@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://takanashi-note.github.io/about/index.html</loc>
+    
+    <lastmod>2026-11-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://takanashi-note.github.io/2025/03/19/about-this-note/</loc>
     
     <lastmod>2026-11-23</lastmod>
@@ -119,15 +128,6 @@
   </url>
   
   <url>
-    <loc>https://takanashi-note.github.io/about/index.html</loc>
-    
-    <lastmod>2026-11-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://takanashi-note.github.io/2025/06/11/mos-excel-365-expert/</loc>
     
     <lastmod>2026-11-22</lastmod>
@@ -174,6 +174,41 @@
   </url>
   
   <url>
+    <loc>https://takanashi-note.github.io/tags/%E6%83%85%E5%A0%B1%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://takanashi-note.github.io/tags/%E4%BD%BF%E7%94%A8%E3%83%84%E3%83%BC%E3%83%AB/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://takanashi-note.github.io/tags/%E8%87%AA%E5%8B%95%E5%8C%96/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://takanashi-note.github.io/tags/Excel/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://takanashi-note.github.io/tags/MOS/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://takanashi-note.github.io/tags/GAS/</loc>
     <lastmod>2026-11-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -195,42 +230,14 @@
   </url>
   
   <url>
-    <loc>https://takanashi-note.github.io/tags/%E8%87%AA%E5%8B%95%E5%8C%96/</loc>
+    <loc>https://takanashi-note.github.io/tags/Python/</loc>
     <lastmod>2026-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://takanashi-note.github.io/tags/%E6%83%85%E5%A0%B1%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88/</loc>
-    <lastmod>2026-11-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://takanashi-note.github.io/tags/MOS/</loc>
-    <lastmod>2026-11-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://takanashi-note.github.io/tags/Excel/</loc>
-    <lastmod>2026-11-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://takanashi-note.github.io/tags/Power-Automate/</loc>
-    <lastmod>2026-11-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://takanashi-note.github.io/tags/Box/</loc>
+    <loc>https://takanashi-note.github.io/tags/Redash/</loc>
     <lastmod>2026-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -244,21 +251,7 @@
   </url>
   
   <url>
-    <loc>https://takanashi-note.github.io/tags/%E4%BD%BF%E7%94%A8%E3%83%84%E3%83%BC%E3%83%AB/</loc>
-    <lastmod>2026-11-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://takanashi-note.github.io/tags/Python/</loc>
-    <lastmod>2026-11-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://takanashi-note.github.io/tags/Redash/</loc>
+    <loc>https://takanashi-note.github.io/tags/Power-Automate/</loc>
     <lastmod>2026-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -280,6 +273,13 @@
   
   <url>
     <loc>https://takanashi-note.github.io/tags/%E9%81%A9%E5%BF%9C%E9%9A%9C%E5%AE%B3/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://takanashi-note.github.io/tags/Box/</loc>
     <lastmod>2026-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
