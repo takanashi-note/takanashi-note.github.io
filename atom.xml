@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>たかなし</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>https://takanashi-note.github.io/</id>
+  <link href="https://takanashi-note.github.io/" rel="alternate"/>
+  <link href="https://takanashi-note.github.io/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, たかなし</rights>
+  <subtitle>日常と買ってよかったもの、ときどき技術と資格</subtitle>
+  <title>たかなしの巣箱</title>
+  <updated>2026-11-22T12:43:55.520Z</updated>
+  <entry>
+    <author>
+      <name>たかなし</name>
+    </author>
+    <category term="買ってよかったもの" scheme="https://takanashi-note.github.io/categories/%E8%B2%B7%E3%81%A3%E3%81%A6%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%82%E3%81%AE/"/>
+    <category term="買ってよかったもの" scheme="https://takanashi-note.github.io/tags/%E8%B2%B7%E3%81%A3%E3%81%A6%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%82%E3%81%AE/"/>
+    <category term="サンプル" scheme="https://takanashi-note.github.io/tags/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB/"/>
+    <content>
+      <![CDATA[<p>これはレイアウト確認用のサンプル記事です。本文はダミーテキストで、紹介している商品も架空の例です。</p><p>「買ってよかったもの」の記事では、まず何に困っていて買ったのか、次に実際に使ってみてどう変わったのか、最後に気になった点を正直に書く、という流れを想定しています。</p><p>写真や見出しの入り方、商品リンクを置く場所のイメージを確認するための記事です。本番の記事では、実際に使っているアイテムをこの形で紹介していく予定です。</p>]]>
+    </content>
+    <id>https://takanashi-note.github.io/2026/11/21/sample-katteyokatta/</id>
+    <link href="https://takanashi-note.github.io/2026/11/21/sample-katteyokatta/"/>
+    <published>2026-11-21T01:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>これはレイアウト確認用のサンプル記事です。本文はダミーテキストで、紹介している商品も架空の例です。</p>
+<p>「買ってよかったもの」の記事では、まず何に困っていて買ったのか、次に実際に使ってみてどう変わったのか、最後に気になった点を正直に書く、という流れを想定しています]]>
+    </summary>
+    <title>買ってよかったもの紹介の書き方テスト</title>
+    <updated>2026-11-22T12:43:55.520Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>たかなし</name>
+    </author>
+    <category term="日常" scheme="https://takanashi-note.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
+    <category term="サンプル" scheme="https://takanashi-note.github.io/tags/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB/"/>
+    <category term="日常" scheme="https://takanashi-note.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
+    <content>
+      <![CDATA[<p>これはレイアウト確認用のサンプル記事です。本文はダミーテキストです。</p><p>休みの日は、午前中に家事をまとめて片付けて、午後はゆっくり過ごすのが最近のパターンです。机の周りを片付けたら、思っていたより気分もすっきりしました。</p><p>夕方からはゲームをしたり、配信の準備をしたり。こういう何でもない日常も、書き留めておくと後から読み返すのが楽しいのかもしれません。</p>]]>
+    </content>
+    <id>https://takanashi-note.github.io/2026/11/20/sample-nichijo/</id>
+    <link href="https://takanashi-note.github.io/2026/11/20/sample-nichijo/"/>
+    <published>2026-11-20T01:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>これはレイアウト確認用のサンプル記事です。本文はダミーテキストです。</p>
+<p>休みの日は、午前中に家事をまとめて片付けて、午後はゆっくり過ごすのが最近のパターンです。机の周りを片付けたら、思っていたより気分もすっきりしました。</p>
+<p>夕方からはゲームをしたり、]]>
+    </summary>
+    <title>休日の過ごし方メモ</title>
+    <updated>2026-11-22T12:43:55.518Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>たかなし</name>
+    </author>
+    <category term="資格" scheme="https://takanashi-note.github.io/categories/%E8%B3%87%E6%A0%BC/"/>
+    <category term="MOS" scheme="https://takanashi-note.github.io/tags/MOS/"/>
+    <category term="Excel" scheme="https://takanashi-note.github.io/tags/Excel/"/>
+    <category term="資格取得" scheme="https://takanashi-note.github.io/tags/%E8%B3%87%E6%A0%BC%E5%8F%96%E5%BE%97/"/>
+    <content>
+      <![CDATA[<h2 id="はじめに"><a href="#はじめに" class="headerlink" title="はじめに"></a>はじめに</h2><p><strong>MOS Excel 365 エキスパートに合格しました。</strong></p><p>自分向けの備忘録、およびこれから受験される方に少しでも参考になればと思い、ざっくばらんに書いてみようと思います。</p><h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><p><del>失業●当受給に必要な</del>求職活動<del>実績を作る</del>ために挑戦しました。</p><p>「内定をいただいた会社で働くつもりなのですが、就業開始は少し先です。次の認定日までの期間も、求職活動が2回以上必要になるのですか？」とハ●ワで質問したところ、なぜか、うやむやな回答しかもらえず…。</p><p>1回分は面接も控えていたので、「もう1回分は、次の仕事で役立てられそうな資格取るかぁ」と考えました。</p><p><strong>「限られた期間で取得できる可能性の高い、なおかつ今後の自分の糧になる資格」</strong>という条件で調べた結果、MOSのExcelを受けてみることにしました。</p><p>でもずっと会社でExcelいじってきたし…どうせなら一般レベルじゃなくて、突然上級編のエキスパートに挑戦してみちゃおう！！と決意しました。</p><h2 id="私のスペック"><a href="#私のスペック" class="headerlink" title="私のスペック"></a>私のスペック</h2><ul><li>前職ではデータ抽出や分析のためにSQLを書いたり、ローコード・ノーコードによる自動化を行ったりしていました。</li><li>Microsoft Excelを実務で使っていた期間は5年くらいです。関数大好き、なんでも関数で解決しようとしていました。</li></ul><h2 id="勉強期間や内容"><a href="#勉強期間や内容" class="headerlink" title="勉強期間や内容"></a>勉強期間や内容</h2><h3 id="期間"><a href="#期間" class="headerlink" title="期間"></a>期間</h3><p>おそらく15時間くらいです。</p><h3 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h3><p><strong>①Youtubeを視聴</strong></p><p>・<a href="https://youtu.be/">MOS Excel365エキスパートの全範囲を79問､69分でマスターする</a>（YouTube）</p><p>「サクッと範囲を把握したいな」ということで、こちらの動画をじっくり視聴しました。</p><p>まったく知らない機能については一時停止→何回か反復しつつ、手元で操作しつつだったので、すべて見終わるまでに2時間ちょっとかかりました。</p><p>出題範囲を正しく把握することができ、操作手順も無駄なく確認できるので大変良かったです。お世話になりました！</p><p><strong>②テキストを購入</strong></p><p>・<a href="https://www.fom.fujitsu.com/">よくわかるマスター MOS Excel 365 Expert 対策テキスト &amp; 問題集</a>（FOM出版）</p><p>模試で出題形式に慣れておきたいな、ということで<strong>付録の模試目当てで購入</strong>しました。</p><p><strong>③模擬試験を繰り返し実施</strong></p><p>最初に受験した模試の結果は、合格ライン70％を下回る<strong>52％</strong>でした。</p><p>「実務でバリバリExcelいじってきたし、余裕っしょ！」と調子乗っていました、ごめんなさい。。</p><p>5回分の模試が受けられたのですが、1～5回を順番ずつ受けたあと、ランダム試験を3回、自分が難しく感じた回の試験をさらに1回ずつ受けて復習を重ねました。</p><p>復習時間含めて10時間とちょっとかかりました。</p><h2 id="結果"><a href="#結果" class="headerlink" title="結果"></a>結果</h2><p>スコアは1000&#x2F;1000点。<strong>満点合格でした！</strong></p><p><img src="/img/mos-excel-score.png" alt="MOS Excel 365 エキスパートのスコアレポート"></p><p>嬉しい…！</p><p>今さらMOS？みたいに言われたりもしましたが、自分としては、<strong>ずっと使ってきたツールに対する理解度を、客観的に証明できるもの</strong>ができてとても嬉しいです。</p><p>あと、これを受験して初めて知った機能も多く、「あんなに難しい関数打たなくても良かったんだ…もっと早く勉強すればよかった…」と少し恥ずかしくなりました。</p><p>私は公式テキストを買いましたが、正直テキストの中身はほとんど読んでいなくて（ごめんなさい）、****という作戦で挑みました。</p><p>模試の判定が大変シビアだったのが、実際のテストに役立ったんじゃないかなと思います。むやみやたらに絶対参照してはいけないようです、厳しい。</p><h2 id="実際の試験はどうだった？"><a href="#実際の試験はどうだった？" class="headerlink" title="実際の試験はどうだった？"></a>実際の試験はどうだった？</h2><p>模試より少しだけ難しく感じました。本当に少しだけですが、一部の問題文に「業務上の実践に近い表現だな」と感じる部分がありました。</p><p>でもそこまで全然違うわけではなく、出題形式も模試とだいたい同じでした。</p><h2 id="次は？"><a href="#次は？" class="headerlink" title="次は？"></a>次は？</h2><p>前回の受験記録で「次はPython 3 エンジニア認定データ分析試験に挑戦しようかと思っています」と書きましたが、</p><p>これ、思っていた以上に数学要素が多くて勉強に手こずっており、先にMOSを優先してしまいました…。数学の前提知識に関する段階で白目をむいています。</p><p>ただ、2つの資格取得を通じて、資格勉強自体が楽しくなってきました。</p><p>「資格を取る」という目標があると、こんなにも勉強って身が入るのだなぁと実感しました。</p><p>内定先は時間にメリハリを持って働けそうなので、空いた時間は資格試験に時間を費やしてもいいかな、と考えています。</p><p>上のデータ分析試験はちょっと置いといて、Excelの勉強がとても楽しかったので、次はVBAエキスパートも楽しそうだなぁと思っています。</p><p>今年中にもう一本、合格記録の記事が書けたらいいな。</p><hr><p>※この記事は note（2025-06-11公開）からの移行記事です。</p>]]>
+    </content>
+    <id>https://takanashi-note.github.io/2025/06/11/mos-excel-365-expert/</id>
+    <link href="https://takanashi-note.github.io/2025/06/11/mos-excel-365-expert/"/>
+    <published>2025-06-11T08:09:53.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="はじめに"><a href="#はじめに" class="headerlink" title="はじめに"></a>はじめに</h2><p><strong>MOS Excel 365 エキスパートに合格しました。</strong></p>
+<p>自分向けの備忘録、]]>
+    </summary>
+    <title>MOS Excel 365 エキスパートに満点合格しました</title>
+    <updated>2026-11-22T12:43:35.718Z</updated>
+  </entry>
+</feed>
